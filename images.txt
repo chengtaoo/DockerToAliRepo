@@ -14,9 +14,7 @@ redis
 #docker.elastic.co/kibana/kibana:8.17.0
 langgenius/dify-api
 langgenius/dify-web
-langgenius/dify-plugin-daemon
 langgenius/dify-enterprise
 langgenius/dify-enterprise-frontend
 langgenius/dify-sandbox
-langgenius/qdrant
 langgenius/base
